@@ -1,0 +1,40 @@
+Removed Pin From Net: NetName=BAT- Pin=BUT2-1
+Removed Pin From Net: NetName=BOOT_STM32 Pin=BUT2-2
+Removed Pin From Net: NetName=BOOT_STM32 Pin=C38-1
+Removed Pin From Net: NetName=BAT- Pin=C38-2
+Removed Pin From Net: NetName=+3V3_STM32 Pin=R39-2
+Removed Member From Class: ClassName=Tay_Cam Member=BUT2
+Removed Member From Class: ClassName=Tay_Cam Member=C38
+Change Component Designator: OldDesignator=CH1+ NewDesignator=SW1
+Change Component Designator: OldDesignator=CH1- NewDesignator=SW2
+Change Component Designator: OldDesignator=CH1 NewDesignator=J7
+Change Component Designator: OldDesignator=CH2+ NewDesignator=SW3
+Change Component Designator: OldDesignator=CH2- NewDesignator=SW4
+Change Component Designator: OldDesignator=CH2 NewDesignator=J6
+Change Component Designator: OldDesignator=CH3+ NewDesignator=SW5
+Change Component Designator: OldDesignator=CH3- NewDesignator=SW6
+Change Component Designator: OldDesignator=CH3 NewDesignator=J2
+Change Component Designator: OldDesignator=CH4+ NewDesignator=SW7
+Change Component Designator: OldDesignator=CH4- NewDesignator=SW8
+Change Component Designator: OldDesignator=CH4 NewDesignator=J4
+Change Component Designator: OldDesignator=CH56 NewDesignator=J3
+Change Component Designator: OldDesignator=CH78 NewDesignator=J5
+Change Component Designator: OldDesignator=CH910 NewDesignator=J8
+Change Component Designator: OldDesignator=I2C NewDesignator=J10
+Change Component Designator: OldDesignator=L+ NewDesignator=SW9
+Change Component Designator: OldDesignator=L- NewDesignator=SW10
+Change Component Designator: OldDesignator=ON | OFF NewDesignator=SW13
+Change Component Designator: OldDesignator=R+ NewDesignator=SW11
+Change Component Designator: OldDesignator=R- NewDesignator=SW12
+Change Component Designator: OldDesignator=UART NewDesignator=J12
+Change Component Description : Designator=D1 Old Description=9V (Typ) Clamp 1A (8/20 New Description=9V (Typ) Clamp 1A (8/20|Ìs) Ipp Tvs Diode Surface Mount SOD-923
+Change Component Description : Designator=D6 Old Description=9V (Typ) Clamp 1A (8/20 New Description=9V (Typ) Clamp 1A (8/20|Ìs) Ipp Tvs Diode Surface Mount SOD-923
+Change Component Description : Designator=C17 Old Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel New Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel | KEMET C0805C220J5GACTU
+Change Component Description : Designator=C18 Old Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel New Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel | KEMET C0805C220J5GACTU
+Change Component Description : Designator=C19 Old Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel New Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel | KEMET C0805C220J5GACTU
+Change Component Description : Designator=C36 Old Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel New Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel | KEMET C0805C220J5GACTU
+Change Component Description : Designator=C39 Old Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel New Description=Capacitor; Ceramic; Cap; 22.0pF; Tol 5%; SMT; Vol-Rtg 50V; C0G; Tape and Reel | KEMET C0805C220J5GACTU
+Change Component Description : Designator=J9 Old Description=USB Type C - Connector, Top-mount, SMT, 6pos New Description=USB Type C - Connector, Top-mount, SMT, 6pos | Molex Incorporated 217175-0001
+Added Pin To Net: NetName=BAT- Pin=R39-2
+Added Member To Class: ClassName=Tay_Cam Member=Component SW13 4.5x4.5
+Added Room: Name=Tay_Cam
